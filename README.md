@@ -1,5 +1,5 @@
 # 👋 Hi there !
-I'm from Florida and I'm weird because I can't stand the heat -_-
+I'm from Florida but I can't stand the heat -_-
 
 # 🚀 My stats and what I use
 <!--
