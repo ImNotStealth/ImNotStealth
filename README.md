@@ -1,17 +1,8 @@
 # 👋 Hi there !
-I'm from Florida but I can't stand the heat -_-
+I'm from Florida but I can't stand the heat -_-\
+The thing below is lying for my most used languages, in total I use Java, JS, C and C++
 
 # 🚀 My stats and what I use
-<!--
-- [Java](https://docs.oracle.com/javase/8/docs/api/)
--->
-
-<!--<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ImNotStealth&count_private=true&show_icons=true&hide_border=true" />
-
-</details>-->
 
 [![I flex](https://github-readme-stats.sathonay.vercel.app/api?username=ImNotStealth&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/ImNotStealth)
 [![I can speak multiple languages unlike you @_@](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=ImNotStealth&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/ImNotStealth)
